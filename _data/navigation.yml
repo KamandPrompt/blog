@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "< ABOUT />"
+    url: https://kamandprompt.github.io/index.html#about
+  - title: "< GSOC />"
+    url: https://kamandprompt.github.io/gsoc
+  - title: "< PROJECTS />"
+    url: https://kamandprompt.github.io/index.html#projects
+  - title: "< TEAM />"
+    url: https://kamandprompt.github.io/index.html#team
+  - title: "< CONTACT US />"
+    url: https://kamandprompt.github.io/index.html#contact
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

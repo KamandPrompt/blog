@@ -1,0 +1,13 @@
+Rishi Sharma:
+  name        : "Rishi Sharma"
+  bio         : "You are seeing what I made."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:b17138@students.iitmandi.ac.in"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rishi-s8.github.io"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/rishis8"

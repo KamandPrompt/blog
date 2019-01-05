@@ -3,7 +3,7 @@ main:
   - title: "< ABOUT />"
     url: https://kamandprompt.github.io/index.html#about
   - title: "< CONTACT US />"
-    url: https://kamandprompt.github.io/index.html#contact
+    url: "#contact"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

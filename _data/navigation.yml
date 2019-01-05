@@ -2,6 +2,8 @@
 main:
   - title: "< ABOUT />"
     url: https://kamandprompt.github.io/index.html#about
+  - title: "< EVENTS />"
+    url: /events/
   - title: "< CONTACT US />"
     url: "#contact"
   # - title: "Sample Posts"

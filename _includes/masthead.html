@@ -5,10 +5,14 @@
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
+            {%- if link.url contains '#' -%}
+              {%- assign url = page.url | relative_url | append: link.url -%}
             {%- else -%}
-              {%- assign url = link.url | relative_url -%}
+              {%- if link.url contains '://' -%}
+                {%- assign url = link.url -%}
+              {%- else -%}
+                {%- assign url = link.url | relative_url -%}
+              {%- endif -%}
             {%- endif -%}
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>

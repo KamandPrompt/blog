@@ -11,3 +11,16 @@ Rishi Sharma:
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/rishis8"
+Aashish Kumar:
+  name        : "Aashish Kumar"
+  bio         : "Core Team Member, Programming Club, IIT Mandi"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: ""
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: ""
+    # - label: "Facebook"
+    #   icon: "fab fa-facebook"
+    #   url: ""

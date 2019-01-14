@@ -24,3 +24,17 @@ Aashish Kumar:
     # - label: "Facebook"
     #   icon: "fab fa-facebook"
     #   url: ""
+Abhigyan Khaund:
+  name        : "Abhigyan Khaund"
+  bio         : "Coordinator, Programming Club, IIT Mandi"
+  avatar     : "https://avatars1.githubusercontent.com/u/20434085?s=460&v=4"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@abhigyan.xyz"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://abhigyan.xyz"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/abhigyank/"

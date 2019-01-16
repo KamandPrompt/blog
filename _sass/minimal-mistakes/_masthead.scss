@@ -47,6 +47,12 @@
   align-self: center;
   font-weight: bold;
   z-index: 20;
+
+ img {
+    max-width: 170px;
+    padding-right: 2px;
+    padding-left: 2px;
+  }
 }
 
 .masthead__menu {

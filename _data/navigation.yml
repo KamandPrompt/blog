@@ -1,11 +1,15 @@
 # main links
+# version: 1(all links) OR 2(internal links) - mandatory field
 main:
   - title: "< ABOUT />"
     url: https://kamandprompt.github.io/index.html#about
+    version: 1
   - title: "< EVENTS />"
     url: /events/
+    version: 1
   - title: "< CONTACT US />"
     url: "#contact"
+    version: 2
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

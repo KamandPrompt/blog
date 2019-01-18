@@ -11,6 +11,7 @@ Rishi Sharma:
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/rishis8"
+
 Aashish Kumar:
   name        : "Aashish Kumar"
   bio         : "Core Team Member, Programming Club, IIT Mandi"
@@ -25,6 +26,7 @@ Aashish Kumar:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/aashish-kumar-159715129/"
+
 Abhigyan Khaund:
   name        : "Abhigyan Khaund"
   bio         : "Coordinator, Programming Club, IIT Mandi"
@@ -39,3 +41,22 @@ Abhigyan Khaund:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/abhigyank/"
+
+Sahil Arora:
+  name             : "Sahil Arora"
+  avatar           : "https://sahilarora535.github.io/assets/images/avatar.jpg"
+  bio              : "Final year B.Tech Undergrad<br>India Institute of Technology Mandi"
+  uri              : "https://sahilarora535.github.io"
+  facebook         : "sahilarora535"
+  github           : "sahilarora535"
+  linkedin         : "sahilarora535"
+  stackoverflow    : "4554700/sahil-arora"
+
+Shikhar Gupta:
+  name             : "Shikhar Gupta"
+  avatar           : "https://lh3.googleusercontent.com/USHeI11GHUTlfomf1ldnAjMoQUX84X69vR6BpwNoZhI6wwYEvMsQl4C-GGrjR2w9-xLv0cGcPHz9lg=w2054-h2058-rw-no"
+  bio              : "Final Year B.Tech. CSE Undergrad<br>Indian Institute of Technology Mandi"
+  facebook         : "shikhar.in"
+  email            : "shikhargupta.in@gmail.com"
+  github           : "shikhar-gupta"
+  linkedin         : "imshikhar"

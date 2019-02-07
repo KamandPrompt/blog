@@ -40,6 +40,7 @@
   </div>
 
   <div class="author__urls-wrapper">
+    {% if author.links %}
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -263,6 +264,7 @@
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine
           </a>
         </li>
+      {% endif %}
       {% endif %}
 
       {% include author-profile-custom-links.html %}

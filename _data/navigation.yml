@@ -5,7 +5,7 @@ main:
     url: /
     version: 1
   - title: "< ABOUT />"
-    url: https://kamandprompt.github.io/index.html#about
+    url: http://pc.iitmandi.co.in/#about
     version: 1
   - title: "< EVENTS />"
     url: /events/

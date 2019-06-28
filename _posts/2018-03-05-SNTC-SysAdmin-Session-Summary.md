@@ -9,7 +9,7 @@
   share: true
 ---
 
-As mentioned in [previous post](https://kamandprompt.github.io/events/2018-02-21-SNTC-System-Administration-Test/) by [Sahil](https://www.facebook.com/sahilarora535), we selected some students to work on improving the SNTC server. Details of selection criteria, the [sys-admin test](https://github.com/KamandPrompt/sysadmin-test) and results can be found in Sahil's post. To discuss the problems and issues regarding the server deployment, I and Sahil held a session with the newly appointed SysAdmin team. This document serves as a summary for the same.
+As mentioned in [previous post](http://blog.pc.iitmandi.co.in/SNTC-System-Administration-Test/) by [Sahil](https://www.facebook.com/sahilarora535), we selected some students to work on improving the SNTC server. Details of selection criteria, the [sys-admin test](https://github.com/KamandPrompt/sysadmin-test) and results can be found in Sahil's post. To discuss the problems and issues regarding the server deployment, I and Sahil held a session with the newly appointed SysAdmin team. This document serves as a summary for the same.
 
 ## The Issues
 

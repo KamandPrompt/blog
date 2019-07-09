@@ -1,6 +1,7 @@
 Rishi Sharma:
   name        : "Rishi Sharma"
-  bio         : "You are seeing what I made."
+  bio         : "Coordinator, Heuristics - ML/AI Club"
+  avatar      : "https://avatars0.githubusercontent.com/u/33762894?v=4"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -11,6 +12,9 @@ Rishi Sharma:
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/rishis8"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/rishi-s8/"
 
 Aashish Kumar:
   name        : "Aashish Kumar"

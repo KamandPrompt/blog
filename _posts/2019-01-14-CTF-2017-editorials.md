@@ -85,7 +85,7 @@ Key -> `easyctf{wh3n_y0u_h4ve_p&q_RSA_iz_ez_ce39897a}`
 
 You are given P, Q, E, and C which is all that you need to know. In fact at this stage all you need to do is take a Python Program from the internet and then run it.
 
-If you search the internet around you'd find the place where this question originates from and can find the full solution at [here](https://github.com/easyctf/easyctf-2017-writeups/blob/master/cryptography/rsa-1-50-points.md").
+If you search the internet around you'd find the place where this question originates from and can find the full solution at [here]("https://github.com/easyctf/easyctf-2017-writeups/blob/master/cryptography/rsa-1-50-points.md").
 
 Special thanks to <b>Atyant Yadav</b>, who helped me in preparing and inspiring to write this editorial.
 

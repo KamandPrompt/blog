@@ -17,7 +17,7 @@ Me and [Shikhar](https://www.facebook.com/shikhar.in) were in our sophomore year
 
 Time flew by, and Programming Club flourished. We both became co-ordinators in our third year for the club and worked hard for people to connect to programming and make cool things. However, this always remained a dream.
 
-With the great help from [Ravi Kumar](https://www.facebook.com/ravisarraf333)(the then general secretary), [Gopal Krishna Agarwal](https://www.facebook.com/gopalkriagg)(the then technical secretary) and Sriram Kailasam sir, we got a new server machine for the institute, just for all the clubs.
+With the great help from Ravi Kumar(the then general secretary), [Gopal Krishna Agarwal](https://www.facebook.com/gopalkriagg)(the then technical secretary) and Sriram Kailasam sir, we got a new server machine for the institute, just for all the clubs.
 
 Now the problem left for us was how to set up the server so that students who develop stuff can easily share their work with us. Sriram sir was the course instructor for the course System Practicum, and he included a great technology [Docker](https://www.docker.com/), and gave Shikhar a project to setup the server as a part of the course. Shikhar did an amazing job, using Docker, Nginx, etc.
 

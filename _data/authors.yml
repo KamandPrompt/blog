@@ -82,6 +82,11 @@ Shikhar Gupta:
   email            : "shikhargupta.in@gmail.com"
   github           : "shikhar-gupta"
   linkedin         : "imshikhar"
+
 CrackTheCode:
-  name        : " Akshat Malviya<br> Anant Mishra <br> Abhigyan Khaund<br> "
+  name        : "Akshat Malviya<br> Anant Mishra <br> Abhigyan Khaund<br> "
   bio         : "Problem Setters of Crack The Code"
+
+CTF3:
+  name        : "<a href='https://www.facebook.com/UniyalPrakhar'>Prakhar Uniyal</a><br><a href='https://akshat157.github.io/'>Akshat Malviya</a>"
+  bio         : "Authors of this editorial"

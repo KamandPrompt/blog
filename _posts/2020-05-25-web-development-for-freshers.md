@@ -7,6 +7,8 @@ toc_label: "On this page"
 
 Welcome to all the freshers to the programming club of IIT Mandi. So you have all heard about websites and the need to be able to make them as an engineer but how to get started? This article is for you to point to some resources for getting started with web development and how. Web development is about building websites and web applications ranging from one-page portfolio sites to fully-fledged web applications (like Facebook, YoutTube, etc).
 
+![]({{ "/assets/images/web-dev.png" | relative_url }})
+
 This blog will take you through how to get started without any prior development or coding knowledge, and help you understand the different aspects of web development. Towards the end, there is a collection of useful resources for learning.
 
 Web Development can be divided into two broad categories: Frontend and Backend. I personally recommend to learn both initially, though later you may phase out to have your own preference. 
